@@ -1,6 +1,6 @@
 # Hi there, I'm Rizqi Alfian 👋
 
-**System Analyst | IT Project Manager | Fullstack Developer**
+**System Analyst | Junior IT Project Manager | Fullstack Developer**
 📍 Bekasi, Indonesia | 🎓 Manajemen Informatika, Politeknik Astra
 
 Saya adalah profesional IT yang memiliki gairah dalam menerjemahkan masalah dan proses bisnis menjadi solusi perangkat lunak yang efisien, aman, dan terukur. Latar belakang saya menggabungkan pemahaman mendalam tentang arsitektur sistem skala institusi (Enterprise) dengan kemampuan kepemimpinan tim fungsional silang (*cross-functional*).
